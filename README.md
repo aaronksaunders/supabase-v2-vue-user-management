@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+# supabase-v2- vue-user-management
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+>This is based on the quickstart example(s) provided by [supabase](https://supabase.io/) using [React.js](https://supabase.io/docs/guides/with-react) and [Next.js](https://supabase.io/docs/guides/with-nextjs)
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- This project has been updated to support v2 of Supabase and the Vue Project is now using Vite
